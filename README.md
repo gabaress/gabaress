@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 **`Digital Craftsman (Developer/Technical Writer/Creator)`**
 
-Hi there! My name is Gabriel and I am a passionate software developer who is always looking to expand my knowledge in coding and technology.
+* Hi there! My name is Gabriel and I am a passionate software developer who is always looking to expand my knowledge in coding and technology.
+* Studying Computer Science in Dublin City University.
+* Currently learning about LLMs.
 
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,bash,r)](https://skillicons.dev)
