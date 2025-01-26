@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 **`Digital Craftsman (Developer/Technical Writer/Creator)`**
+
+Hi there! My name is Gabriel and I am a passionate software developer who is always looking to expand my knowledge in coding and technology.
+
+## Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
