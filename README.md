@@ -20,4 +20,10 @@ Here are some ideas to get you started:
 Hi there! My name is Gabriel and I am a passionate software developer who is always looking to expand my knowledge in coding and technology.
 
 ## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,bash,html,css,r)](https://skillicons.dev)
+
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,r)](https://skillicons.dev)
+
+## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,r)](https://skillicons.dev)
