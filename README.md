@@ -28,4 +28,5 @@ Hi there! My name is Gabriel and I am a passionate software developer who is alw
 ## Developer Tools & Software
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabaress&show_icons=true&theme=transparent)
+
+![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabaress&show_icons=true&theme=transparent)
