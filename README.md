@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**'Aspiring Techincal Innovator'**
+**`Aspiring Techincal Innovator`**
