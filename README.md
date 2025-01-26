@@ -23,7 +23,7 @@ Hi there! My name is Gabriel and I am a passionate software developer who is alw
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,bash,r)](https://skillicons.dev)
 
 ## Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,django,gcp,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,django,gcp,firebase,aws)](https://skillicons.dev)
 
 ## Developer Tools & Software
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)](https://skillicons.dev)
