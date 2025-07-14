@@ -1,4 +1,4 @@
-## Welcome
+## Hi there!
 
 <!--
 **gabaress/gabaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* Hi there! My name is Gabriel and I am a passionate software developer who is always looking to expand my knowledge in coding and technology.
-* 3rd Year Computer Science student.
+* I'm Gabriel, a software developer based in Ireland.
 
-## Programming Languages
-Python, C, HTML, CSS, Java
-
-## Web Development
-
-
-## Developer Tools & Software
-
+* I love playing around with many different technologies, right now focusing on frontend.
 
 ## GitHub Statistics
 ![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabaress&show_icons=true&theme=transparent)
