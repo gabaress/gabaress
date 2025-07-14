@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 * Hi there! My name is Gabriel and I am a passionate software developer who is always looking to expand my knowledge in coding and technology.
-* Studying Computer Science in Dublin City University.
+* 3rd Year Computer Science student.
 
 ## Programming Languages
 
