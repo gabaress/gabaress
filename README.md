@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 * Studying Computer Science in Dublin City University.
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,bash,r)](https://skillicons.dev)
+
 
 ## Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,django,gcp,firebase,aws)](https://skillicons.dev)
+
 
 ## Developer Tools & Software
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)](https://skillicons.dev)
+
 
 ## GitHub Statistics
 ![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabaress&show_icons=true&theme=transparent)
