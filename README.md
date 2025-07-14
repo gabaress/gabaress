@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * 3rd Year Computer Science student.
 
 ## Programming Languages
-
+Python, C, HTML, CSS, Java
 
 ## Web Development
 
