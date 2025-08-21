@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 * I'm Gabriel, a software developer based in Ireland.
 
-* I love playing around with many different technologies, right now focusing on frontend.
-
 ## GitHub Statistics
 ![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabaress&show_icons=true&theme=transparent)
